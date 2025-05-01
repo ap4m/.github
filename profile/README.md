@@ -1,5 +1,7 @@
 ## A Place for Misfits/Me
 
+Just a holding page while we get a few things sorted and explain what we are doing :)
+
 <!--
 
 **Here are some ideas to get you started:**
