@@ -1,6 +1,24 @@
-## A Place for Misfits/Me
+## AP4M (A Place for Misfits/Me)
 
-Just a holding page while we get a few things sorted and explain what we are doing :)
+It doesn't take much to no longer fit into the current tech landscape.
+
+We want to create a space for creatives that are tired of trying to.
+
+We focus on the collaborative part of the creative process - the feeling we get from working with different people in different ways.
+
+Our hypothesis is that great products come from people embedded in a culture that nurtures and excites.
+
+Part living experiment, part playground, part commerical. We work out in the open, unapologetically and sustainably.
+
+We want to find alternatives to the current options for learning, practice, experimentation and reward. 
+
+We can only do this by working with real products and customers.
+
+We love put our soul into products. We accept a little chaos is the antidote to control.
+
+We take risks we can own. We celebrate our mistakes with cake and cookies.
+
+If we succeed, we are no longer misfits... just us, as we were always intended to be.
 
 <!--
 
